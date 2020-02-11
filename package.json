@@ -1,0 +1,12 @@
+{
+  "name": "@ttionya/travisci-test",
+  "version": "1.0.0",
+  "description": "TravisCI-Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "ttionya",
+  "license": "MIT"
+}
